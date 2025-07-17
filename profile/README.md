@@ -13,25 +13,10 @@ A gente mergulha a fundo em:
 ## 📚 Nossos Projetos
 
 ### Lessons Project
+<img src="https://raw.githubusercontent.com/ai-solution-architect/.github/refs/heads/main/profile/ai-lessons.jpeg" width="400"/>
+O Lessons Project é onde a gente compartilha o conhecimento! Ele foi feito pra você entender tudo sobre **IA/ML** e **MLOps**, da base ao avançado. Aqui tem guias, questionários e briefings pra te deixar por dentro das diferenças entre a **IA Clássica** e a **Generativa**, os desafios do **MLOps** e muito mais.
 
-O **Lessons Project** é onde a gente compartilha o conhecimento! Ele foi feito pra você entender tudo sobre **IA/ML** e **MLOps**, da base ao avançado. Aqui tem guias, questionários e briefings pra te deixar por dentro das diferenças entre a **IA Clássica** e a **Generativa**, os desafios do **MLOps** e muito mais.
-
-Se liga no nosso logo, que reflete essa jornada de aprendizado e inovação:
-
-![Lessons Project Logo Placeholder](https://via.placeholder.com/200x200?text=Logo+Lessons+Project)
-*(Atenção: A imagem acima é só um lugar-marcador. **Não se esqueça de inserir o logo final do 'Lessons Project' aqui!**)*
-
-**[👉 Bora pro Lessons Project!](https://github.com/SuaOrganizacao/lessons-project-repo-aqui)**
-*(Não esqueça de mudar `https://github.com/SuaOrganizacao/lessons-project-repo-aqui` para o **link real** do seu repositório Lessons Project!)*
-
----
-
-### Outros Projetos (Exemplos)
-
-*   **[Projeto X](link-para-o-projeto-x):** Um projeto legal que faz [o quê?].
-*   **[Projeto Y](link-para-o-projeto-y):** Outro projeto maneiro sobre [assunto].
-
-*(Adicione aqui outros projetos que você tiver!)*
+[👉 Bora pro Lessons Project!](https://github.com/ai-solution-architect/lessons)
 
 ## 🤝 Como Contribuir
 
@@ -40,6 +25,3 @@ Curtiu e quer dar uma força? A gente adora!
 2.  Crie uma nova `branch` com suas ideias.
 3.  Mande suas alterações (`commit`).
 4.  Abra um `Pull Request` explicando o que você fez.
-
-Se tiver um arquivo `CONTRIBUTING.md` no projeto, dá uma olhada lá pra mais detalhes!
-
